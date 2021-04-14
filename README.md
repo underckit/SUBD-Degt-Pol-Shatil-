@@ -159,4 +159,4 @@ PostgreSQL, Oracle SQL, MongoDB
 
 
 # UML Диаграмма
-![alt text](images/UML.jpg "UML диаграмма для мастера и игрока")
+![alt text](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/UML.jpg "UML диаграмма для мастера и игрока")
