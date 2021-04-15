@@ -54,16 +54,16 @@ PostgreSQL, Oracle SQL, MongoDB
 * Скорость(число)
  
 2) Характеристики 
-* Название(строка) 
-* Краткое название(строка) 
+* Название(строка)  
 * Числовое значение(число) 
-* Модификатор(число) 
+* Постоянный модификатор(число) 
 
 3) Навыки
 * Название(строка)
-* Модификатор(число)
+* Постоянный модификатор(число)
 
 4) Оружие и броня
+* Название(строка)
 * Класс предмета(строка)
 * Возможность носить(bool)
 
@@ -157,3 +157,13 @@ PostgreSQL, Oracle SQL, MongoDB
 1) Локация 
 * Схема локации()
 
+
+# UML Диаграмма
+![uml diag](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/UML.jpg "UML диаграмма для мастера и игрока")
+
+# Реляционные схемы
+## Схема для базы данных персонажа
+![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationCharacter.PNG)
+
+## Схема для базы данных игровых объектов и прочего
+![relation objects](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationObjects.png)
