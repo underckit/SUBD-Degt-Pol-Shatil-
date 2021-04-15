@@ -159,4 +159,11 @@ PostgreSQL, Oracle SQL, MongoDB
 
 
 # UML Диаграмма
-![alt text](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/UML.jpg "UML диаграмма для мастера и игрока")
+![uml diag](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/UML.jpg "UML диаграмма для мастера и игрока")
+
+# Реляционные схемы
+## Схема для базы данных персонажа
+![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationCharacter.PNG)
+
+## Схема для базы данных игровых объектов и прочего
+![relation objects](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationObjects.png)
