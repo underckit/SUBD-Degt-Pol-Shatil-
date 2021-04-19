@@ -108,40 +108,33 @@ PostgreSQL, Oracle SQL, MongoDB
 * Урон(строка)
 * Критический удар(строка)
 
-
-3) Метательное оружие
-* Название(строка)
-* Дистанция атаки(строка)
-* Урон(строка)
-* Критический удар(строка)
-
-4) Тип оружия
+3) Тип оружия
 * Специальное
 * Простое
 * Метательное
 
-5) Расходные материалы
+4) Расходные материалы
 * Описание(строка)
 * Количество(число)
 
-6) Броня 
+5) Броня 
 * Уровень брони(число)
 
-7) Тип брони
+6) Тип брони
 * Название(строка)
 
 
-8) Снаряды
+7) Снаряды
 * Название(строка)
 * Цена(Число)
 * Количество(число)
 
-9) Событие
+8) Событие
 * Название(строка)
 * Описание(строка)
 * Награда(строка)
 
-10) Противники  
+9) Противники  
 * Название(строка)
 * Инициатива(число)
 * Здоровье(число)
@@ -152,7 +145,7 @@ PostgreSQL, Oracle SQL, MongoDB
 * Значение модификатора(число)
 * Опыт(число)
 
-11) Ловушки
+10) Ловушки
 * Тип(строка)
 * Условие срабатывания(строка)
 * Перезарядка(строка)
@@ -169,7 +162,7 @@ PostgreSQL, Oracle SQL, MongoDB
 
 # Реляционные схемы
 ## Схема для базы данных персонажа
-![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationCharacter.PNG)
+![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationCharacter.PNG?raw=true)
 
 ## Схема для базы данных игровых объектов и прочего
-![relation objects](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationObjects.png)
+![relation objects](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/RelationObjects.png?raw=true)
