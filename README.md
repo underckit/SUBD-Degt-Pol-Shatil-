@@ -178,3 +178,7 @@ PostgreSQL, Oracle SQL, MongoDB
 # Макеты приложений
 ## Макет мобильного приложения для игрока
 ![Player Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/MoqupPlayer.PNG)
+## Макеты веб-приложения для ведущего
+![Master Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/Room.jpg)
+![Master Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/GameSession.jpg)
+
