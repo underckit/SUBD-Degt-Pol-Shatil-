@@ -182,3 +182,6 @@ PostgreSQL, Oracle SQL, MongoDB
 ![Master Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/Room.jpg)
 ![Master Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/GameSession.jpg)
 
+# Реляционные схемы, сгенерированные средствами графической оболочки
+## Схема для базы данных персонажа
+![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/CharacterERDpg.png)
