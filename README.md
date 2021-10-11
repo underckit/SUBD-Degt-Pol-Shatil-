@@ -185,3 +185,5 @@ PostgreSQL, Oracle SQL, MongoDB
 # Реляционные схемы, сгенерированные средствами графической оболочки
 ## Схема для базы данных персонажа
 ![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/CharacterERDpg.png)
+## Схема для базы данных снаряжения
+![relation objects](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/s9T03xKD5Us.jpg)
