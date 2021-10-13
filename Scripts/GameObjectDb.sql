@@ -1,7 +1,7 @@
 create table Equipment
 (
 	Id int primary key identity not null,
-	Names nvarchar(20) not null,
+	Names nvarchar(25) not null,
 	Cost int not null
 );
 
