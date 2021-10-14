@@ -178,3 +178,12 @@ PostgreSQL, Oracle SQL, MongoDB
 # Макеты приложений
 ## Макет мобильного приложения для игрока
 ![Player Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/MoqupPlayer.PNG)
+## Макеты веб-приложения для ведущего
+![Master Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/Room.jpg)
+![Master Moqup](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/GameSession.jpg)
+
+# Реляционные схемы, сгенерированные средствами графической оболочки
+## Схема для базы данных персонажа
+![relation character](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/CharacterERDpg.png)
+## Схема для базы данных снаряжения
+![relation objects](https://github.com/underckit/SUBD-Degt-Pol-Shatil-/blob/main/Images/s9T03xKD5Us.jpg)
